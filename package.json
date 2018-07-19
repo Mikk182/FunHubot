@@ -1,6 +1,6 @@
 {
   "name": "FunHubot",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "author": "Mikk182",
   "description": "Robot to bring joy",
@@ -20,6 +20,7 @@
     "hubot-slack": "^4.5.3"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "8.11.x",
+    "npm":  "5.6.0" 
   }
 }
